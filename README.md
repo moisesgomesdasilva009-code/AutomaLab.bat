@@ -12,13 +12,13 @@ Breve descrição do projeto. Explique em uma ou duas frases qual é o objetivo 
 
 ## 👥 Equipe (7 Integrantes)
 
-1. [Nome do Integrante 1] - [Função/Responsabilidade]
-2. [Nome do Integrante 2] - [Função/Responsabilidade]
-3. [Nome do Integrante 3] - [Função/Responsabilidade]
-4. [Nome do Integrante 4] - [Função/Responsabilidade]
-5. [Nome do Integrante 5] - [Função/Responsabilidade]
-6. [Nome do Integrante 6] - [Função/Responsabilidade]
-7. [Nome do Integrante 7] - [Função/Responsabilidade]
+1. [Paulo (Bahia)] - [Front-End]
+2. [Matheus] - [Front-End]
+3. [Hyago] - [Front-End]
+4. [Bernardo] - [Back-End]
+5. [Natan] - [Back-End]
+6. [Karem Lana] - [PowerShell]
+7. [Moises ] - [PowerShell]
 
 ---
 
