@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="0QGWMNihkEFSwH9Vqkd1">
+    <mxGraphModel dx="1839" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="INICIO" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-3" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="383" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Receber caminho da pasta" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-5" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="384.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Verificar se a pasta existe?" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-7" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="383" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SIM" vertex="1">
+          <mxGeometry height="60" width="120" x="338.5" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NÃO" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-12" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=90;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="294.5" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-13" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=90;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="114.5" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Mostrar FALHA" vertex="1">
+          <mxGeometry height="60" width="120" x="-20" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-15" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="384.5" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Listar os arquivos" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-17" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="384.5" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Para cada arquivo" vertex="1">
+          <mxGeometry height="60" width="120" x="338.5" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Criar/encontrar a pasta correspondente&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-21" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="384.5" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-23" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="384.5" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Verificar extensão" vertex="1">
+          <mxGeometry height="60" width="120" x="338.5" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-27" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="384.5" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Mover Arquivo" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Registrar resultado no LOG" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Mostrar resultado" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-31" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="384.5" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="O6OQvlzZc90eiz-sphYJ-32" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="31" x="384.5" y="1160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
