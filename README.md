@@ -4,22 +4,39 @@
 O AutomaLab é um projeto prático no qual vocês irão construir, em grupo, um
 pequeno sistema de automação.
 
+✓ Trabalhe sempre em uma pasta de teste, como C:\AutomaLabTeste. <br>
+----
+✓ Nunca faça testes de DEL, MOVE ou COPY em arquivos pessoais ou importantes. <br>
+----
+✓ Não pule etapas. O projeto começa no .bat e só depois chega ao navegador. <br>
+----
+✓ Salve prints e vídeos de cada etapa; eles serão usados na documentação. <br>
+----
+✓ Todos os integrantes devem participar de lógica, front-end, back-end, testes e
+documentação.<br> 
+----
+✓ Quando surgir um erro, registre o erro, o que foi testado e como ele foi
+resolvido.
+----
+<br>
+
 ## 💻 Tecnologias Utilizadas
 
 * HTML5
 * CSS3
 * JavaScript
 * VS Code (Editor sugerido)
+* Python 
 
 ## 👥 Equipe (7 Integrantes)
 
-1. [Paulo (Bahia)] - [Front-End]
-2. [Matheus] - [Front-End]
-3. [Hyago] - [Front-End]
-4. [Bernardo] - [Back-End]
-5. [Natan] - [Back-End]
-6. [Karem Lana] - [PowerShell]
-7. [Moises ] - [PowerShell]
+1. Paulo - Front-End
+2. Matheus - Front-End
+3. Hyago - Front-End
+4. Bernardo - Back-End
+5. Natan - Back-End
+6. Karem Lana - PowerShell
+7. Moises  - PowerShell
 
 ---
 
