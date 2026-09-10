@@ -1,7 +1,8 @@
 # AutomaLab.bat
 # 🚀 Nome do Projeto
 
-Breve descrição do projeto. Explique em uma ou duas frases qual é o objetivo deste trabalho e o que ele faz.
+O AutomaLab é um projeto prático no qual vocês irão construir, em grupo, um
+pequeno sistema de automação.
 
 ## 💻 Tecnologias Utilizadas
 
