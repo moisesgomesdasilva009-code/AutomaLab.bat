@@ -35,7 +35,7 @@ resolvido.
 3. Hyago - Front-End
 4. Bernardo - Back-End
 5. Natan - Back-End
-6. Karem Lana - PowerShell
+6. Karen Lana - PowerShell
 7. Moises  - PowerShell
 
 ---
