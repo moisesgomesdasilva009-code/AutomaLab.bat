@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutomaLab - Painel de Automação</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="glass-container">
+        <header>
+            <h1>AutomaLab</h1>
+            <p>Módulo III - Sistema de Automação de Tarefas Administrativas</p>
+        </header>
+
+        <main>
+            <!-- Formulário para receber as configurações -->
+            <form id="automaForm">
+                <div class="input-group">
+                    <label for="taskSelect">Selecione a Tarefa:</label>
+                    <select id="taskSelect" name="task" required>
+                        <option value="organizar">Organizador de Arquivos</option>
+                        <option value="backup">Backup Automatizado</option>
+                        <option value="monitor">Monitor do Sistema (Disco/Memória)</option>
+                        <option value="limpeza">Faxineiro Digital (Limpar Temporários)</option>
+                        <option value="relatorio">Central de Relatórios/Auditoria</option>
+                    </select>
+                </div>
+                
+                <div class="input-group">
+                    <label for="dirInput">Diretório Alvo (Ex: C:\AutomaLab Teste):</label>
+                    <input type="text" id="dirInput" name="directory" placeholder="C:\AutomaLab Teste" required>
+                </div>
+
+                <!-- Botão Executar -->
+                <button type="submit" id="btnExecutar">Executar</button>
+            </form>
+
+            <!-- Área reservada para mostrar resultado/log -->
+            <section class="log-section">
+                <h2>Log de Execução</h2>
+                <div id="logArea" class="log-box">
+                    Aguardando execução...
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
